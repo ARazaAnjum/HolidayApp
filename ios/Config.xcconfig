@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  HolidayApp
+//
+//  Created by Ali Raza on 9/2/20.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include? "tmp.xcconfig"
